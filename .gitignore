@@ -1,0 +1,10 @@
+checkpoint/
+EAGCS/EAGCS/model/
+*.pt
+*.bin
+*.ckpt
+*.pth
+*.tar
+*.zip
+
+img
