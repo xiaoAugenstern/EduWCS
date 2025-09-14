@@ -83,18 +83,11 @@ The system workflow is simple and intuitive. Users upload an image of their hand
       <td>11.38</td><td>11.38</td><td>11.38</td>
     </tr>
     <tr>
-      <td>Qwen2-7b</td>
-      <td>57.85</td><td>39.43</td><td>52.91</td>
-      <td>30.43</td><td>23.03</td><td>28.59</td>
-      <td><b>32.95</b></td><td>45.31</td><td><b>34.85</b></td>
-      <td><b>15.85</b></td><td><b>15.85</b></td><td><b>15.85</b></td>
-    </tr>
-    <tr>
       <td>Qwen2.5-7b</td>
       <td>57.30</td><td>43.60</td><td>53.91</td>
       <td>30.90</td><td>24.07</td><td>29.24</td>
       <td><b>31.55</b></td><td>50.00</td><td><b>34.06</b></td>
-      <td>15.45</td><td>15.45</td><td>15.45</td>
+      <td><b>15.45</b></td><td><b>15.45</b></td><td><b>15.45</b></td>
     </tr>
  <!-- CLIP Multirow -->
     <tr>
