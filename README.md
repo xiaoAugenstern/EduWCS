@@ -128,6 +128,3 @@ The system workflow is simple and intuitive. Users upload an image of their hand
     </tr>
   </tbody>
 </table>
-
-
-# EduWCS

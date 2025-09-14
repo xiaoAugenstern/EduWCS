@@ -1,8 +1,0 @@
-ultralytics
-hanzi_chaizi
-flask
-flask_cors
-opencv-python
-ultralytics
-# 安装paddleocr
-pip3 install paddlepaddle paddleocr
