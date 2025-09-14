@@ -68,7 +68,7 @@ The system workflow is simple and intuitive. Users upload an image of their hand
   <tbody>
     <tr><td colspan="14" style="text-align:center;"><b>Two-stage Pipeline</b></td></tr>
     <tr>
-      <td rowspan="4">OCR</td>
+      <td rowspan="3">OCR</td>
       <td>GECToR</td>
       <td>45.64</td><td>38.31</td><td>43.96</td>
       <td>10.23</td><td>6.80</td><td>9.29</td>
