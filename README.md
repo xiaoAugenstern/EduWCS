@@ -2,6 +2,7 @@
 
 
 EduWCS is an innovative interactive educational writing correction system designed to address the core challenges faced by learners of Chinese as a Foreign Language (CFL).
+![correct](./assets/correct.png)
 
 ## 📖 The Significance in Edutech
 
