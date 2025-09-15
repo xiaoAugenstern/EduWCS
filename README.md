@@ -36,13 +36,16 @@ The system workflow is simple and intuitive. Users upload an image of their hand
 
 4.  **Review Interactively**:
     *   In the right-hand panel, review the categorized list of detected edits (e.g., Insertion, Deletion, Substitution).
+![correct](./assets/correct.png)
     *   Drag the **"Edit Progress"** slider to dynamically adjust the number of corrections applied. Slide left for minimal edits; slide right for a full revision.
+![control](./assets/control.jpg)
 
-
-4.  **Locate Errors**: In the main preview area, corrections are overlaid directly onto your handwriting using highlights and strikethroughs.
-
+4.  **Locate Errors**: In the main preview area, corrections are overlaid directly onto your handwriting using highlights.
+![highlight](./assets/highlight.png)
 
 5.  **Export & Save**: Export the final annotated image for future reference.
+![save2](./assets/save2.png)
+![save3](./assets/save3.png)
 
 
 ## 🧪 Experiment Results
